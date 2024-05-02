@@ -1,11 +1,16 @@
-# Sample Snack app
+# Clima do Crato
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Um aplicativo simples para obter informações sobre o clima da cidade do Crato utilizando a API OpenWeather para obter os dados meteorológicos da cidade.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Descrição do Projeto:
+O aplicativo utiliza a API para identificar a temperatura atual na cidade do Crato, 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Se a temperatura estiver acima de 29 graus Celsius, o aplicativo exibe uma imagem representando um dia ensolarado.
+Se a temperatura estiver abaixo de 29 graus Celsius, o aplicativo exibe uma imagem representando um cubo de gelo.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Demonstração
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![image](https://github.com/luanvfm/climate-react/assets/160190605/bb33b8f2-e898-4f34-bdf7-949ca5826a47)
+
+
+
